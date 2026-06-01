@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Imani, a spftware engineering with electronics student based in London.
+I'm Imani, a software engineering with electronics student based in London.
 
 I am learning to integrate software with hardware through my classes and projects.
 
