@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Imani, a spftware engineering with electronics student based in London.
+
+I am learning to integrate software with hardware through my classes and projects.
+
+My main programming language is C++. I also use tools such as Fusion.
+
+Fun facts:
+* I like learning languages
+* I don't like coffee
+* My hobbies include: Chess, gym and table tennis
