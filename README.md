@@ -20,7 +20,9 @@ I'm Imani, a software engineering with electronics student based in London.
 I am learning to integrate software with hardware through my classes and projects.
 
 My main programming language is C++. I also use tools such as Fusion.
+
 Other stacks: HTML, CSS
+
 Projects: Temperature sensor, Portfolio website, Number generator
 
 Fun facts:
